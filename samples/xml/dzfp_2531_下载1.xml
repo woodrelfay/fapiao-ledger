@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EInvoice>
+  <Header><InvoiceNumber>25312000000012345678</InvoiceNumber><IssueTime>2025-09-03</IssueTime></Header>
+  <SellerInformation><SellerName>深圳市云杉科技有限公司</SellerName></SellerInformation>
+  <BuyerInformation><BuyerName>广州鹿用信息服务有限公司</BuyerName></BuyerInformation>
+  <TotalInformation>
+    <TotalExcludedTaxAmount>943.40</TotalExcludedTaxAmount>
+    <TotalTaxAmount>56.60</TotalTaxAmount>
+    <TotalTaxIncludedAmount>1000.00</TotalTaxIncludedAmount>
+  </TotalInformation>
+</EInvoice>

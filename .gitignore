@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+发票台账.xlsx
+rename_log.csv
+demo_run/
+demo_run_src/

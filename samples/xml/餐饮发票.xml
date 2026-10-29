@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EInvoice>
+  <Header><InvoiceNumber>25312000000012345680</InvoiceNumber><IssueTime>2025-10-07</IssueTime></Header>
+  <SellerInformation><SellerName>上海墨池文化传播有限公司</SellerName></SellerInformation>
+  <BuyerInformation><BuyerName>广州鹿用信息服务有限公司</BuyerName></BuyerInformation>
+  <TotalInformation>
+    <TotalExcludedTaxAmount>2264.15</TotalExcludedTaxAmount>
+    <TotalTaxAmount>135.85</TotalTaxAmount>
+    <TotalTaxIncludedAmount>2400.00</TotalTaxIncludedAmount>
+  </TotalInformation>
+</EInvoice>

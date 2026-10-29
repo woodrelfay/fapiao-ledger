@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EInvoice>
+  <Header><InvoiceNumber>25312000000012345679</InvoiceNumber><IssueTime>2025-09-18</IssueTime></Header>
+  <SellerInformation><SellerName>北京星桥餐饮管理有限公司</SellerName></SellerInformation>
+  <BuyerInformation><BuyerName>广州鹿用信息服务有限公司</BuyerName></BuyerInformation>
+  <TotalInformation>
+    <TotalExcludedTaxAmount>320.75</TotalExcludedTaxAmount>
+    <TotalTaxAmount>19.25</TotalTaxAmount>
+    <TotalTaxIncludedAmount>340.00</TotalTaxIncludedAmount>
+  </TotalInformation>
+</EInvoice>
