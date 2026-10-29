@@ -2,7 +2,7 @@
 
 ## 做了什么
 
-**fapiao-ledger 发票台账助手 MVP 已完成并实测跑通**，仓库就在本目录，可以直接发布到 GitHub（只差最后一步推送，见文末）。
+**fapiao-ledger 发票台账助手 MVP 已完成并实测跑通**，已发布到 GitHub：https://github.com/woodrelfay/fapiao-ledger（发布详情见文末）。
 
 功能（全部纯本地运行，不上传任何文件）：
 
