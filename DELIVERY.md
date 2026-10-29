@@ -59,11 +59,8 @@ cd ~/workspace/fapiao-ledger
 
 想先拿样例练手：`.venv/bin/python -m fapiao_ledger samples`
 
-## 发布到 GitHub 还差一步（需要你）
+## 发布到 GitHub（已完成）
 
-本地仓库已 `git init` 并完成首次提交，但**没有推送**——推送需要你的 GitHub 账号和仓库，我没有也不会编造账号信息。你醒来后二选一：
+2026-10-29 已发布：**https://github.com/woodrelfay/fapiao-ledger**（公开仓库，main 分支）。
 
-1. 你在 GitHub 网页建一个空仓库（比如就叫 `fapiao-ledger`），把仓库地址发我，我配 remote 并推送；
-2. 或者你告诉我想用的仓库名，我带你走一遍创建+推送。
-
-另外一个小提醒：本地提交用的 git 身份是仓库级配置 `Sin11_Wong <sin11_wong@users.noreply.github.com>`（GitHub 的免暴露邮箱格式），只在本仓库生效；想换成你自己的名字邮箱，推送前改掉即可。
+用户通过 GitHub 设备码流程亲自授权 gh 登录（账号 `woodrelfay`）后，由 gh 建仓并推送。推送前已把本地提交身份从占位的 `Sin11_Wong` 更正为 `woodrelfay <woodrelfay@users.noreply.github.com>`（仓库级配置，只在本仓库生效），提交在 GitHub 上可正确归属到账号。仓库已加话题标签：invoice / fapiao / python / cli / excel / dedupe。
